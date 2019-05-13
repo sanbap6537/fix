@@ -5,3 +5,7 @@ b = 2
 
 c = 3
 
+
+def plus(num1, num2):
+    return num1 + num2
+
